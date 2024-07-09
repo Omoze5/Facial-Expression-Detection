@@ -1,5 +1,5 @@
 # Project Overview: Facial Expression Detection Model
-This project is an image classificaion problem which focuses on building a model to detect facial expressions using CNN in deep learning techniques.The dataset for this project was gotten from kaggle which contained 7 labeled facial expression images like anger, disgust,happy, sad,neutral, fear and surprise. The key steps involved in the project are as follows:
+This project is an image classificaion problem which focuses on building a model to detect facial expressions using CNN in deep learning techniques.The dataset for this project was gotten from kaggle which contained 7 labeled facial expression images such as anger, disgust,happy, sad,neutral, fear and surprise. The key steps involved in the project are as follows:
 
 ### Libraries and Packages:
 
