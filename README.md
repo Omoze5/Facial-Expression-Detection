@@ -29,4 +29,4 @@ The evaluation metrics are computed to assess the performance of the model on th
 
 ### Result:
 
-The project aims to output the accuracy and other performance metrics of the model in detecting various facial expressions. During the training, the model experienced overfitting which was avoided using Batch Normaliaion and the weight decay parameer.
+The project aims to output the accuracy and other performance metrics of the model in detecting various facial expressions. During the training, the model experienced overfitting which was avoided using Batch Normaliaion and the weight decay parameter.
