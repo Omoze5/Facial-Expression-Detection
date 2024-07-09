@@ -20,7 +20,7 @@ The project uses the ImageFolder class from torchvision.datasets to load the tra
 
 ### Model Architecture:
 
-A model was built using CNN from scrath. The project adapts this model for facial expression detection by modifying the final layers to suit the classification of different facial expressions.
+A model was built using CNN from scratch. The project adapts this model for facial expression detection by modifying the final layers to suit the classification of different facial expressions.
 
 ### Training and Evaluation:
 
