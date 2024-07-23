@@ -3,7 +3,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-class SimpleCNN(nn.Module):
+class CNNModel(nn.Module):
     def __init__(self):
         super(CNNModel, self).__init__()
         self.model = nn.Sequential(
@@ -33,4 +33,4 @@ class SimpleCNN(nn.Module):
         return x
 
 def create_model():
-    return SimpleCNN()
+    return CNNModel()
