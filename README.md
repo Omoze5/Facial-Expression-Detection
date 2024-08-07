@@ -29,7 +29,7 @@ The evaluation metrics are computed to assess the performance of the model on th
 
 ### Deployment:
 
-Here is a link to the webpage depployed via streamlit.[https://facial-expression-detection.streamlit.app/]
+Here is a link to the webpage depployed via streamlit.Facial Expression Detection App[https://facial-expression-detection.streamlit.app/]
 
 
 
