@@ -27,6 +27,12 @@ A model was built using CNN from scratch. The project adapts this model for faci
 The training process involves using an optimizer from torch.optim and a loss function suitable for classification tasks. The model is trained over multiple epochs with the data loaders feeding batches of images to the model.
 The evaluation metrics are computed to assess the performance of the model on the test dataset.
 
+### Deployment:
+
+Here is a link to the webpage depployed via streamlit.[https://facial-expression-detection.streamlit.app/]
+
+
+
 ### Result:
 
 The project aims to output the accuracy and other performance metrics of the model in detecting various facial expressions. During the training, the model experienced overfitting which was avoided using Batch Normaliaion and the weight decay parameter.
